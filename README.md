@@ -12,6 +12,8 @@ This project focuses on implementing and analyzing offensive security techniques
 
 1. Clone the repository.
 2. Execute `exploit.py` as a custom script for exploitation.
+3. The program will ask for an IP address to be attack, enter the targeted IP
+4. The attack will be started
 
 ---
 
